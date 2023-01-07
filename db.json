@@ -1,28 +1,4 @@
 {
-    "todos": [
-      {
-        "title": "task4",
-        "status": true,
-        "description": "my task 4",
-        "id": 4
-      },
-      {
-        "title": "task 5",
-        "status": true,
-        "description": "my task 5",
-        "id": 5
-      },
-      {
-        "title": "task6",
-        "status": false,
-        "description": "my task 6",
-        "id": 6
-      },
-      {
-        "title": "task3",
-        "status": false,
-        "description": "this is noathersd task",
-        "id": 7
-      }
-    ]
+    "todos": [],
+    "users":[]
   }
